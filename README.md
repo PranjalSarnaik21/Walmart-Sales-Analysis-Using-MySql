@@ -35,4 +35,10 @@ Visualized sales trends over time, identifying seasonal patterns and outliers.
 Analyzed the impact of markdowns, holidays, and promotional events on sales performance.
 Explored correlations between product attributes, customer demographics, and sales metrics.
 
+* Results and Insights:
+1. Identified significant factors influencing sales across different product categories and store locations.
+2. Discovered seasonal trends and peak sales periods, enabling better resource allocation and inventory management.
+3. Uncovered insights into customer purchasing behavior and preferences, informing targeted marketing strategies.
+ 
+
 
